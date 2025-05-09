@@ -1,0 +1,12 @@
+{
+  "name": "gtm-server",
+  "version": "1.0.0",
+  "description": "Google Tag Manager Server Container on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
